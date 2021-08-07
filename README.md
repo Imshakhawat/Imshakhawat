@@ -29,9 +29,8 @@
 - 🌱 I’m currently learning more about Flutter.
 - 🤔 I’m looking for help with CrossPlatform Apps.
 - 💬 Ask me about Flutter or Android related stuff.
-
- <a href="mailto: shakhawathossain.se@gmail.com">- 📫 How to reach me: <img align="left" alt="SK's gmail" width="22px" src="icons/gmail.svg" />
- </a>
+- 📫 How to reach me: 
+<a href="mailto: shakhawathossain.se@gmail.com"><img align="left" alt="SK's gmail" width="22px" src="icons/gmail.svg" /></a>
 
 
 
