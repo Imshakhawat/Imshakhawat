@@ -3,6 +3,8 @@
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FImshakhawat%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imshakhawat&label=Views&color=brightgreen&style=plastic" alt="iampawan" /> </p>
+
 <a href="https://twitter.com/awkward_saitama">
   <img align="left" alt="SK's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
