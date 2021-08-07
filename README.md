@@ -29,7 +29,7 @@
 - 🌱 I’m currently learning more about Flutter.
 - 🤔 I’m looking for help with CrossPlatform Apps.
 - 💬 Ask me about Flutter or Android related stuff.
-- 📫 How to reach me: [TELEGRAM](https://t.me/imshakhawat) , [G-MAIL](https://youtube.com/mtechviral)
+- 📫 How to reach me: [TELEGRAM](https://t.me/imshakhawat) , [G-MAIL](mailto:shakhawathossain.se@gmail.com)
 
 
 
