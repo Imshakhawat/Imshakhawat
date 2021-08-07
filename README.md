@@ -43,7 +43,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="icons/java2.svg"></code>    
+<code><img height="20" src="icons/java2svg.svg"></code>    
 
 <a href="https://github.com/imshakhawat">
   <img align="center" src="https://github-readme-stats-navy-omega.vercel.app/api/top-langs/?username=imshakhawat&theme=light&hide_langs_below=1" />
