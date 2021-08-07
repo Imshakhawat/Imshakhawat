@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imshakhawat&label=Views&color=brightgreen&style=plastic" alt="iampawan" /> </p>
 
 <a href="https://twitter.com/awkward_saitama">
-  <img align="left" alt="SK's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="SK's Twitter" width="22px" src="icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/thecrazyprogrammer">
   <img align="left" alt="SK's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
