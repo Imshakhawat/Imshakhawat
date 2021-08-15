@@ -14,6 +14,9 @@
 <a href="https://github.com/imshakhawat">
   <img align="left" alt="SK's Github" width="22px" src="icons/github.svg" />
 </a>
+<a href="https://goo.su/73Nf">
+  <img align="left" alt="SK's b" width="22px" src="icons/medium-icon-24.jpg" />
+</a>
 
 
 <a href="https://www.facebook.com/shakhawat.se">
