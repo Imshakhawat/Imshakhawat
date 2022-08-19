@@ -53,7 +53,7 @@
 <code><img height="20" src="icons/java3.svg"></code>    
 
 <a href="https://github.com/imshakhawat">
-  <img align="center" src="https://github-readme-stats-navy-omega.vercel.app/api/top-langs/?username=imshakhawat&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshakhawat" />
 </a>
 
 
