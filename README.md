@@ -29,9 +29,9 @@
 
 
 
-- 🌱 I’m currently learning more about Flutter.
-- 🤔 I’m looking for help with CrossPlatform Apps.
-- 💬 Ask me about Flutter or Android related stuff.
+- 🌱 I’m currently learning more about ReactJS.
+- 🤔 I’m looking for job on Android stack and Frontend.
+- 💬 Ask me about Android related stuff.
 - 📫 How to reach me: [TELEGRAM](https://t.me/imshakhawat) , [G-MAIL](mailto:shakhawathossain.se@gmail.com)
 
 
